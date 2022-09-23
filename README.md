@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en" alt="marcelluscaio" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact" alt="marcelluscaio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact" alt="marcelluscaio" /></p>
 
 - 🌱 I’m currently learning **Javascript, PHP and Typescript**
 

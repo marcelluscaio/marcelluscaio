@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Caio Cabral</h1>
 <h3 align="center">Front-end developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelluscaio" alt="marcelluscaio" /></a> </p>
+- 🌱 I’m currently learning **Javascript, PHP and Typescript**
 
-- 🌱 I’m currently learning **Javascript, PHP, Typescript**
+- 👨‍💻 All of my projects are available at: [https://marcelluscaio.github.io/portfolio/](https://marcelluscaio.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://marcelluscaio.github.io/portfolio/](https://marcelluscaio.github.io/portfolio/)
+- 💬 Ask me about **HTML, CSS or Javascript**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 📫 How to reach me: **ocaiocabral@gmail.com**
 
-- 📫 How to reach me **ocaiocabral@gmail.com**
-
-- ⚡ Fun fact **I played the drums in a band for nearly 9 years**
+- ⚡ Fun fact: **I played the drums in a band for nearly 9 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

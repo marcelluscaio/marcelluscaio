@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript, PHP and Typescript**
+- 🌱 I’m currently learning **PHP, Node and Typescript**
 
 - 👨‍💻 All of my projects are available at: [https://marcelluscaio.github.io/portfolio/](https://marcelluscaio.github.io/portfolio/)
 

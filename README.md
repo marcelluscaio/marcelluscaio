@@ -44,5 +44,8 @@ Since 2021, programming has become one of them. I have been studying and improvi
 <br>
 <br>
 
-<div align="center">&nbsp;<img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" /><img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" /></div>
+<div align="center">&nbsp;<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" /></div>
+<br>
+<div align="center"><img align="center" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" /></div>
+
 

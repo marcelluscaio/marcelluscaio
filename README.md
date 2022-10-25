@@ -10,6 +10,7 @@ Since 2021, programming has become one of them. I have been studying and improvi
 
 <br>
 
+<div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=marcelluscaio&theme=dracula" alt="marcelluscaio" /></div>
 
 ## Languages I know
 

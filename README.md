@@ -18,6 +18,8 @@ Since 2021, programming has become one of them. I have been studying and improvi
 
 <div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></div>
 
+<div align="left"><img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" /></div>
+
 <br>
 
 ## Languages I'm learning
@@ -45,8 +47,8 @@ Since 2021, programming has become one of them. I have been studying and improvi
 <br>
 <br>
 
-<div align="center">&nbsp;<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" /></div>
+<div align="left">&nbsp;<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" /></div>
 <br>
-<div align="center"><img align="center" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" /></div>
+
 
 

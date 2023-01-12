@@ -20,7 +20,8 @@ Since 2021, programming has become one of them. I have been studying and improvi
 
 <br>
 
-<div align="left"><img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" /></div>
+<div align="left"><img align="center" height="200px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" /></div>
+
 
 <br>
 
@@ -49,8 +50,7 @@ Since 2021, programming has become one of them. I have been studying and improvi
 <br>
 <br>
 
-<div align="left">&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" /></div>
+<div align="left">&nbsp;<img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" /></div>
 <br>
-
 
 

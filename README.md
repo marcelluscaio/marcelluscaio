@@ -37,9 +37,9 @@ I am a Front End Developer who loves seeing the blank screen being populated ste
 <br>
 
 <div align="center" width="100%">
-  <img align="center" height="250px" src="https://streak-stats.demolab.com/?user=marcelluscaio&theme=dracula" alt="marcelluscaio" />
-  <img align="center" height="200px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" />  
-  <img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=marcelluscaio&theme=dracula" alt="marcelluscaio" />
+  <img width="32%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marcelluscaio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcelluscaio" />  
+  <img width="38%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelluscaio&show_icons=true&locale=en&theme=dracula" alt="marcelluscaio" />
 </div>
 
 <br>

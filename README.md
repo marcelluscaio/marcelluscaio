@@ -52,5 +52,5 @@ I am a Front End Developer who loves seeing the blank screen being populated ste
 📫 Reach me at: **ocaiocabral@gmail.com**
 
 ## Connect with me
-<div align="left"><a href="https://linkedin.com/in/caio marcellus martinez cabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio marcellus martinez cabral" height="30" width="40" /></a></div>
+<div align="left"><a href="https://www.linkedin.com/in/caio-marcellus-cabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio marcellus martinez cabral" height="30" width="40" /></a></div>
 

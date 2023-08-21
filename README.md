@@ -4,9 +4,11 @@
 
 ### Welcome to my Github page!
 
-I am from Rio de Janeiro, Brazil, and currently live in Toronto, Canada. I have many passions, from karate to music and literature. 
+I am from Rio de Janeiro, Brazil, and currently live in Toronto, Canada. I have many passions, from karate and calisthenics to music, cinema and literature. 
 
-I am a Front End Developer who loves seeing the blank screen being populated step by step by the code I create. I am a developer since 2020, and I have specialized in creating responsive, accessible and light pages. I am moved by the desire to learn, and I get great satisfaction on teaching what I know.
+I am a Developer who loves seeing the blank screen being populated step by step by the code I create. Continuously learning since 2020, I have specialized in creating responsive, accessible and light pages, using many different tools, from plain HTML and CSS to Next.js.
+
+I am moved by the desire to learn, and I get great satisfaction on teaching what I know. I have developed a deep understanding of the tools I use, mainly CSS, and I am constantly helping people in communities and writing articles to share my insights. My current goal is to deepen my knowledge in React and Next.js.
 
 <br>
 
@@ -43,11 +45,6 @@ I am a Front End Developer who loves seeing the blank screen being populated ste
 </div>
 
 <br>
-
-## More about me
-:metal: Random fact: **I played the drums in a band for nearly 9 years**
-
-👨‍💻 You can see some of my work at: [https://marcelluscaio.github.io/portfolio/](https://marcelluscaio.github.io/portfolio/)
 
 📫 Reach me at: **ocaiocabral@gmail.com**
 
